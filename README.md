@@ -1,6 +1,6 @@
 [![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif)](https://saurav25400.io)
 <h1 align="center">Hi 👋, I'm Saurav Kumar</h1>
-<h3 align="center">A passionate competitive Programmer and FullStack Web developer from India.</h3>
+<h3 align="center">A passionate competitive Programmer and FullStack Java developer from India.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurav25400&label=Profile%20views&color=0e75b6&style=flat" alt="saurav25400" /> </p>
