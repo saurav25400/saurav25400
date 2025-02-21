@@ -9,11 +9,10 @@
 
 - 🔭 I’m currently working on [ShortPathFinder using Dijkstra Algorithm](https://shortestpathfinder-hvgt.onrender.com/)
 
-- 🌱 I’m currently learning **Next js**
 
 - 👯 I’m looking to contribute on **open Source Project**
 
-- 💬 Ask me about **Java, Mern,competitive Programming.**
+- 💬 Ask me about **Java, Springboot,competitive Programming.**
 
 - 📫 How to reach me **saurav25400@gmail.com**
 
