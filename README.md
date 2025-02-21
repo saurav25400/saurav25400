@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to contribute on **open Source Project**
 
-- 💬 Ask me about **Java, Springboot,competitive Programming.**
+- 💬 Ask me about **Java, Springboot,DSA,System Design,competitive Programming.**
 
 - 📫 How to reach me **saurav25400@gmail.com**
 
